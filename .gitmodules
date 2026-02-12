@@ -1,6 +1,3 @@
-[submodule "cell05/ex04/mini-project"]
-	path = cell05/ex04/mini-project
-	url = https://github.com/PunGrumpy/mini-project.git
 [submodule "mini-project"]
 	path = mini-project
 	url = https://github.com/PunGrumpy/mini-project.git
